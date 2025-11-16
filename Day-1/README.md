@@ -35,7 +35,7 @@ To go beyond the lab, I designed a `refined_root_agent` with an enhanced persona
 *   **Implementation:** I wrote a more detailed system prompt (`instruction`) that directed the agent to adopt an expert persona, synthesize a comprehensive plan, and provide a forward-looking forecast.
 *   **Outcome:** The agent successfully generated a detailed and high-quality roadmap for becoming an expert in "Context Engineering and AI Agents," demonstrating the powerful impact of a well-crafted agent instruction.
 
-> [Link to the Experiment: Refined Root Agent](day-1a-from-prompt-to-action.ipynb#2.6-Changing-the-description-and-instruction-of-the-Agent)
+> [Link to the Experiment: Refined Root Agent](https://nbviewer.org/github/Waqas01CP/5-Day-AI-Agents-Intensive-Course-with-Google/blob/main/Day-1/day-1a-from-prompt-to-action.ipynb#2.6-Changing-the-description-and-instruction-of-the-Agent)
 
 ---
 
